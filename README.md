@@ -12,6 +12,11 @@ This project is just for viewing yours little workflows, sometimes we add or cre
 
 And as code is alive, this library help us to keep the documentation update.
 
+## Tech Stack
+
+Front: HTML, CSS, JS
+Back: Java 11, Spring
+
 ### Spring Integration
 
 This project was created for easily integration with spring.
