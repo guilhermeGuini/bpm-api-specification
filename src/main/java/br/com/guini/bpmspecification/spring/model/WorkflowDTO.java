@@ -1,4 +1,4 @@
-package br.com.guini.bpmspecification.spring.model.enums;
+package br.com.guini.bpmspecification.spring.model;
 
 public class WorkflowDTO {
 

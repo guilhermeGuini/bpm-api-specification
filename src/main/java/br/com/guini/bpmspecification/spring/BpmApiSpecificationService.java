@@ -1,6 +1,6 @@
 package br.com.guini.bpmspecification.spring;
 
-import br.com.guini.bpmspecification.spring.model.enums.WorkflowDTO;
+import br.com.guini.bpmspecification.spring.model.WorkflowDTO;
 
 import java.util.List;
 
@@ -13,6 +13,6 @@ public class BpmApiSpecificationService {
     }
 
     public List<WorkflowDTO> getWorkflow() {
-        return generator.test();
+        return generator.getWorkflows();
     }
 }

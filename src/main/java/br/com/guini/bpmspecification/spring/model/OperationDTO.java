@@ -1,4 +1,6 @@
-package br.com.guini.bpmspecification.spring.model.enums;
+package br.com.guini.bpmspecification.spring.model;
+
+import br.com.guini.bpmspecification.spring.model.enums.BpmOperationType;
 
 public class OperationDTO {
 

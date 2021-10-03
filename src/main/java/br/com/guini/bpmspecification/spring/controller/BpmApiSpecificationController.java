@@ -3,7 +3,7 @@ package br.com.guini.bpmspecification.spring.controller;
 import br.com.guini.bpmspecification.spring.BpmApiSpecificationService;
 import br.com.guini.bpmspecification.spring.BpmConfiguration;
 import br.com.guini.bpmspecification.spring.BpmGenerator;
-import br.com.guini.bpmspecification.spring.model.enums.WorkflowDTO;
+import br.com.guini.bpmspecification.spring.model.WorkflowDTO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.Ordered;
 import org.springframework.core.annotation.Order;

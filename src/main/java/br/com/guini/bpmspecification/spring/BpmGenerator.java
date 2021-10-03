@@ -1,6 +1,6 @@
 package br.com.guini.bpmspecification.spring;
 
-import br.com.guini.bpmspecification.spring.model.enums.WorkflowDTO;
+import br.com.guini.bpmspecification.spring.model.WorkflowDTO;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -20,7 +20,7 @@ public final class BpmGenerator {
     }
 
 
-    public List<WorkflowDTO> test() {
+    public List<WorkflowDTO> getWorkflows() {
         final List<WorkflowDTO> response = new ArrayList<>();
 
         final var workflows = bpmConfiguration.getWorkflows();

@@ -3,8 +3,8 @@ package br.com.guini.bpmspecification.spring;
 import br.com.guini.bpmspecification.spring.annotation.BpmConditionOperation;
 import br.com.guini.bpmspecification.spring.annotation.BpmOperation;
 import br.com.guini.bpmspecification.spring.annotation.BpmWorkflow;
-import br.com.guini.bpmspecification.spring.model.enums.OperationDTO;
-import br.com.guini.bpmspecification.spring.model.enums.WorkflowDTO;
+import br.com.guini.bpmspecification.spring.model.OperationDTO;
+import br.com.guini.bpmspecification.spring.model.WorkflowDTO;
 
 import java.util.ArrayList;
 import java.util.List;
